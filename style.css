@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.principal {
+    width: 100%;
+}
+
+.prodyprec{
+    display: flex;
+}
+
+.producto {
+    margin-right: 1250px;
+}
+
+.accordion-body {
+    display: flex;
+    justify-content: center;
+}
+
+.prodimg {
+    height: 500px;
+}
